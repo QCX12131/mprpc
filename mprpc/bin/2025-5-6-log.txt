@@ -1,0 +1,12 @@
+16:8:35=>[INFO]NotifyService:service name:FriendServiceRpc
+16:8:35=>[INFO]NotifyService:method name:GetFriendList
+16:8:35=>[INFO]rpcprovider start service!!!ip:192.168.126.140,port:9000
+18:1:11=>[INFO]NotifyService:service name:FriendServiceRpc
+18:1:11=>[INFO]NotifyService:method name:GetFriendList
+18:1:11=>[INFO]rpcprovider start service!!!ip:192.168.126.140,port:9000
+18:8:53=>[INFO]NotifyService:service name:FriendServiceRpc
+18:8:53=>[INFO]NotifyService:method name:GetFriendList
+18:8:53=>[INFO]rpcprovider start service!!!ip:192.168.126.140,port:9000
+18:24:43=>[INFO]NotifyService:service name:FriendServiceRpc
+18:24:43=>[INFO]NotifyService:method name:GetFriendList
+18:24:43=>[INFO]rpcprovider start service!!!ip:192.168.126.140,port:9000

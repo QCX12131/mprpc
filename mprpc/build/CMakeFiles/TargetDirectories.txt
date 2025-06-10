@@ -1,0 +1,13 @@
+/home/qianchenxi/Desktop/mprpc/build/CMakeFiles/edit_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/CMakeFiles/rebuild_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/src/CMakeFiles/MPRPC.dir
+/home/qianchenxi/Desktop/mprpc/build/src/CMakeFiles/edit_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/CMakeFiles/edit_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/CMakeFiles/rebuild_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/caller/CMakeFiles/Consumer.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/caller/CMakeFiles/edit_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/caller/CMakeFiles/rebuild_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/callee/CMakeFiles/Provider.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/callee/CMakeFiles/edit_cache.dir
+/home/qianchenxi/Desktop/mprpc/build/examples/callee/CMakeFiles/rebuild_cache.dir
